@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/sa/projects/automation-integration-tests/src/test/java/tests/rest/usecases/SellAndMigrationProductsTest.java'" />
-    <option name="defaultScopeName" value="File '/home/sa/projects/automation-integration-tests/src/test/java/tests/rest/usecases/SellAndMigrationProductsTest.java'" />
-    <option name="SEARCH_SCOPE" value="File '/home/sa/projects/automation-integration-tests/src/test/java/tests/rest/usecases/SellAndMigrationProductsTest.java'" />
+    <option name="customScope" value="File '/home/sa/projects/automation-integration-tests/src/main/java/rest/util/content/bb/content/storehouse/actions/ProduceAction.java'" />
+    <option name="defaultScopeName" value="File '/home/sa/projects/automation-integration-tests/src/main/java/rest/util/content/bb/content/storehouse/actions/ProduceAction.java'" />
+    <option name="SEARCH_SCOPE" value="File '/home/sa/projects/automation-integration-tests/src/main/java/rest/util/content/bb/content/storehouse/actions/ProduceAction.java'" />
   </component>
 </application>
