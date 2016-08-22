@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/home/sa/projects/automation-integration-tests/src/main/java/rest/util/content/bb/content/storehouse/actions/ProduceAction.java'" />
     <option name="defaultScopeName" value="File '/home/sa/projects/automation-integration-tests/src/main/java/rest/util/content/bb/content/storehouse/actions/ProduceAction.java'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/home/sa/projects/automation-integration-tests/src/main/java/rest/util/content/bb/content/storehouse/actions/ProduceAction.java'" />
   </component>
 </application>
