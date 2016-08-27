@@ -2,6 +2,9 @@
   <action id="Git.ContextMenu">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
