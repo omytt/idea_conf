@@ -11,5 +11,10 @@
     <macro name="\&quot;">
       <typing text-keycode="92:0;222:1">\&quot;</typing>
     </macro>
+    <macro name="enumFix">
+      <typing text-keycode="57:1;222:1">(&quot;</typing>
+      <action id="EditorNextWord" />
+      <typing text-keycode="222:1;48:1">&quot;)</typing>
+    </macro>
   </component>
 </application>
