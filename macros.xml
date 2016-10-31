@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="getName()">
+      <action id="EditorSelectWord" />
+      <typing text-keycode="71:0;69:0;84:0;78:1;65:0;77:0;69:0;57:1;48:1">getName()</typing>
+    </macro>
+  </component>
+</application>
