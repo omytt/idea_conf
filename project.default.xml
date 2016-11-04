@@ -53,7 +53,6 @@
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <option name="MAIN_CLASS_NAME" />
           <option name="VM_PARAMETERS" />
           <option name="PROGRAM_PARAMETERS" />
@@ -68,7 +67,6 @@
           <method />
         </configuration>
         <configuration default="true" type="JUnit" factoryName="JUnit">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <module name="" />
           <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
           <option name="ALTERNATIVE_JRE_PATH" />
@@ -97,7 +95,6 @@
           <method />
         </configuration>
         <configuration default="true" type="TestNG" factoryName="TestNG">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <module name="" />
           <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
           <option name="ALTERNATIVE_JRE_PATH" />
