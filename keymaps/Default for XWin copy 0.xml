@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
+  <action id="PlaySavedMacrosAction">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+</keymap>
