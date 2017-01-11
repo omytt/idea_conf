@@ -11,17 +11,6 @@
     <macro name="\&quot;">
       <typing text-keycode="92:0;222:1">\&quot;</typing>
     </macro>
-    <macro name="guice">
-      <typing text-keycode="50:1;71:1;85:0;73:0;67:0;69:0;57:1;48:1">@Guice()</typing>
-      <action id="EditorLeft" />
-      <typing text-keycode="77:0;79:0;68:0;85:0;76:0;69:0;83:0;32:0;61:0;32:0;91:1;93:1">modules&amp;#x20;=&amp;#x20;{}</typing>
-      <action id="EditorLeft" />
-      <action id="EditorEnter" />
-      <typing text-keycode="71:1;85:0;73:0;67:0;69:0;77:1;79:0;68:0;85:0;76:0;67:0;69:0">GuiceModulce</typing>
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="69:0;46:0;67:0;76:0;65:0;83:0;83:0">e.class</typing>
-    </macro>
     <macro name="inject">
       <typing text-keycode="66:1;65:0;83:0;69:0;84:1;69:0;83:0;84:0;46:0;73:0;78:0;73:0;84:0;73:1;78:0;74:0;69:0;67:0;84:0;73:0;79:0;78:0;83:0;57:1;84:0;72:0;73:0;83:0">BaseTest.initInjections(this</typing>
       <action id="EditorRight" />
