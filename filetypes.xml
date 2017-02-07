@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="geckodriver" type="Native" />
       <mapping pattern="users_for_payment" type="PLAIN_TEXT" />
+      <mapping ext="rs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
