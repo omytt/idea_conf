@@ -16,5 +16,8 @@
       <action id="EditorRight" />
       <typing text-keycode="59:0">;</typing>
     </macro>
+    <macro name="firstSellPoint">
+      <typing text-keycode="83:1;69:0;76:0;76:0;80:1;79:0;73:0;78:0;84:0;32:0;83:0;69:0;76:0;76:0;80:1;79:0;73:0;78:0;84:0;32:0;61:0;32:0;71:0;69:0;84:0;70:1;73:0;82:0;83:0;84:0;83:1;69:0;76:0;76:0;80:1;79:0;73:0;78:0;84:0;57:1;48:1;59:0">SellPoint&amp;#x20;sellPoint&amp;#x20;=&amp;#x20;getFirstSellPoint();</typing>
+    </macro>
   </component>
 </application>
