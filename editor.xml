@@ -3,4 +3,7 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
 </application>
