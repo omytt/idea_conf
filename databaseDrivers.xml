@@ -6,7 +6,7 @@
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
       <artifact name="Oracle" use="true" />
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
@@ -32,14 +32,15 @@
     <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
       <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
+      <property name="enable_load_extension" value="true" />
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
-      <artifact name="PostgreSQL" use="true" version="9.4-1201" />
-      <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="false" />
+      <artifact name="PostgreSQL" use="true" version="9.4-1212" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
     </driver>
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
       <artifact name="DB2" use="true" />
