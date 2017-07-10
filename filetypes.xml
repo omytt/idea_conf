@@ -17,6 +17,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="properties123123" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
