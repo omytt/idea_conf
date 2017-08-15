@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[core] - .../android-qasl-cashregister/core/src/main/java/ru/qasl/cashregister/manager/loyalty/DbLoyaltyApplier.java'" />
     <option name="defaultScopeName" value="File '[core] - .../android-qasl-cashregister/core/src/main/java/ru/qasl/cashregister/manager/loyalty/DbLoyaltyApplier.java'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[core] - .../android-qasl-cashregister/core/src/main/java/ru/qasl/cashregister/manager/loyalty/DbLoyaltyApplier.java'" />
   </component>
 </application>
