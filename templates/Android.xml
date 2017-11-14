@@ -1,9 +1,0 @@
-<templateSet group="Android">
-  <template name="sdkif" value="if(android.os.Build.VERSION.SDK_INT &lt;= Build.VERSION_CODES.$sdk_version$) {&#10;}" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="sdk_version" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
-</templateSet>
