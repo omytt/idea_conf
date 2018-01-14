@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="template.create.MoxyMoxy activity">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="template.create.MoxyMoxy fragment">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+</keymap>
