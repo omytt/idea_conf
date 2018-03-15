@@ -5,4 +5,10 @@
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="template.create.MoxyMoxy activity">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="template.create.MoxyMoxy fragment">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
 </keymap>
