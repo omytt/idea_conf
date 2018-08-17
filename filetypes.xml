@@ -13,6 +13,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping pattern=".info" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
