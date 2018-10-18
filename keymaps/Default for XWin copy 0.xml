@@ -2,6 +2,9 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="ContextHelp" />
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="alt p" />
