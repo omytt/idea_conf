@@ -14,6 +14,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="1535969788782_replika1812281634jpg" type="Native" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
+      <mapping pattern="mood_colors" type="PLAIN_TEXT" />
       <mapping pattern=".info" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
