@@ -11,12 +11,10 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <removed_mapping ext="kt" type="Kotlin" />
       <mapping pattern="1535969788782_replika1812281634jpg" type="Native" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping pattern="mood_colors" type="PLAIN_TEXT" />
       <mapping pattern=".info" type="PLAIN_TEXT" />
-      <mapping ext="kt" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
