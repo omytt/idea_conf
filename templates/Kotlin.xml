@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="safeValueOf" value="fun safeValueOf(value: Strings) : $SUPERTYPE$ {&#10;    values().find { it.value.equals(value, true) } ?: &#10;$END$&#10;}" description="enum safeValueOf" toReformat="true" toShortenFQNames="true">
+    <variable name="SUPERTYPE" expression="anonymousSuper()" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
