@@ -4,6 +4,7 @@
       <mapping pattern="1535969788782_replika1812281634jpg" type="Native" />
       <mapping pattern="personality_test_long_desc" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
+      <mapping pattern="xml features" type="PLAIN_TEXT" />
       <mapping pattern="badge_text" type="PLAIN_TEXT" />
       <mapping pattern="mood_colors" type="PLAIN_TEXT" />
       <mapping pattern=".info" type="PLAIN_TEXT" />
