@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="c2148c15-eabc-46bd-afcd-ae7957ca6e66" name="omytt">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="OPEN_IN_BROWSER_GIST" value="false" />
   </component>
