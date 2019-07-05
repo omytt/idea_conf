@@ -9,6 +9,7 @@
       <mapping pattern="mood_colors" type="PLAIN_TEXT" />
       <mapping pattern="badge_text" type="PLAIN_TEXT" />
       <mapping pattern="personality_test_long_desc" type="PLAIN_TEXT" />
+      <mapping ext="userstorage" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
