@@ -13,5 +13,11 @@
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="shift ctrl meta p" />
   </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="hg4idea.QFold" />
 </keymap>
