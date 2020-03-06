@@ -11,6 +11,7 @@
       <mapping pattern="personality_test_long_desc" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping ext="fbx" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="userstorage" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
