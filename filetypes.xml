@@ -13,6 +13,7 @@
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping ext="fbx" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="userstorage" type="PLAIN_TEXT" />
       <mapping ext="filamat" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
