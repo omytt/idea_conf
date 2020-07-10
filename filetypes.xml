@@ -12,6 +12,7 @@
       <mapping pattern="badge_text" type="PLAIN_TEXT" />
       <mapping pattern="personality_test_long_desc" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
+      <mapping pattern="joda_zoneinfomap" type="PLAIN_TEXT" />
       <mapping ext="fbx" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
