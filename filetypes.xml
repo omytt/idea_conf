@@ -7,6 +7,7 @@
       <mapping pattern="1535969788782_replika1812281634jpg" type="Native" />
       <mapping pattern=".info" type="PLAIN_TEXT" />
       <mapping pattern="xml features" type="PLAIN_TEXT" />
+      <mapping pattern="New_York" type="PLAIN_TEXT" />
       <mapping pattern="Temp" type="PLAIN_TEXT" />
       <mapping pattern="mood_colors" type="PLAIN_TEXT" />
       <mapping pattern="badge_text" type="PLAIN_TEXT" />
