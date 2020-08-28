@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="0" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="1535969788782_replika1812281634jpg" type="Native" />
       <mapping pattern="Los_Angeles" type="PLAIN_TEXT" />
