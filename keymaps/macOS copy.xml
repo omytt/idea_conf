@@ -1,4 +1,5 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="AddToFavoritesPopup" />
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
@@ -12,5 +13,8 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+  <action id="template.create.MVVMMVVM fragment">
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
 </keymap>
