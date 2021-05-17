@@ -2,7 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/fragment_avatar_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_bot_profile_settings.xml" value="0.1766304347826087" />
+        <entry key="app/src/main/res/layout/fragment_profile_mvp.xml" value="0.18478260869565216" />
       </map>
     </option>
   </component>
