@@ -1,0 +1,15 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/fragment_avatar_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_bot_profile_settings.xml" value="0.1766304347826087" />
+        <entry key="app/src/main/res/layout/fragment_profile_mvp.xml" value="0.18478260869565216" />
+        <entry key="app/src/main/res/layout/item_bot_mvp_info.xml" value="0.17481884057971014" />
+        <entry key="app/src/main/res/layout/item_mvp_reward_header.xml" value="0.17481884057971014" />
+        <entry key="app/src/main/res/layout/item_reward_header.xml" value="0.17481884057971014" />
+        <entry key="app/src/main/res/layout/item_reward_stub.xml" value="0.1875" />
+      </map>
+    </option>
+  </component>
+</application>

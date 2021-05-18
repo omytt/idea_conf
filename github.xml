@@ -3,6 +3,9 @@
     <account id="bc4107b6-139f-4450-96c2-83539d1703b4" name="serejqano@gmail.com">
       <server useHttp="false" host="github.com" />
     </account>
+    <account id="71254dda-0f97-4e40-85b2-25ce333b61b0" name="sqaaa">
+      <server host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="OPEN_IN_BROWSER_GIST" value="false" />

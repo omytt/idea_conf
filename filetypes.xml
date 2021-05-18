@@ -1,31 +1,30 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
       <mapping ext="0" type="Image" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="1535969788782_replika1812281634jpg" type="Native" />
       <mapping pattern=".info" type="PLAIN_TEXT" />
-      <mapping pattern="Temp" type="PLAIN_TEXT" />
       <mapping pattern="Los_Angeles" type="PLAIN_TEXT" />
-      <mapping pattern="lol" type="PLAIN_TEXT" />
-      <mapping pattern="xml features" type="PLAIN_TEXT" />
-      <mapping pattern="New_York" type="PLAIN_TEXT" />
-      <mapping pattern="mood_colors" type="PLAIN_TEXT" />
       <mapping pattern="badge_text" type="PLAIN_TEXT" />
       <mapping pattern="personality_test_long_desc" type="PLAIN_TEXT" />
       <mapping pattern="joda_zoneinfomap" type="PLAIN_TEXT" />
-      <mapping ext="fbx" type="PLAIN_TEXT" />
-      <mapping ext="ppy" type="PLAIN_TEXT" />
+      <mapping pattern="New_York" type="PLAIN_TEXT" />
+      <mapping pattern="xml features" type="PLAIN_TEXT" />
+      <mapping pattern="lol" type="PLAIN_TEXT" />
+      <mapping pattern="Temp" type="PLAIN_TEXT" />
+      <mapping pattern="mood_colors" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="filamat" type="PLAIN_TEXT" />
+      <mapping ext="rse" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="fbx" type="PLAIN_TEXT" />
       <mapping ext="userstorage" type="PLAIN_TEXT" />
+      <mapping ext="ppy" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
-      <mapping ext="mockmaker" type="PLAIN_TEXT" />
-      <mapping ext="filamat" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="rse" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
