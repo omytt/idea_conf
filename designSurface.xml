@@ -9,6 +9,7 @@
         <entry key="app/src/main/res/layout/item_mvp_reward_header.xml" value="0.17481884057971014" />
         <entry key="app/src/main/res/layout/item_reward_header.xml" value="0.17481884057971014" />
         <entry key="app/src/main/res/layout/item_reward_stub.xml" value="0.1875" />
+        <entry key="platform/core/src/main/res/layout/layout_avatar_loading.xml" value="0.1" />
       </map>
     </option>
   </component>
